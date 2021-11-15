@@ -179,7 +179,7 @@ header {
 }
 
 .your-destination::after {
-    background-image: url(/landingPage-EL/images/pepper.svg);
+    background-image: url(images/pepper.svg);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     width: 40px;
